@@ -53,22 +53,22 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-l lg:ml-12">
-            ~socha nahi abhi kuch
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span> Web3 and Front-end Developer <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span> MCA student at VIT Chennai <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">| <b>Open to Work</b> |</span> Biography Enthusiast <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span>
           </p>
           <div>
             <Link
               href="/#contact"
               className="lg:ml-12 px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Hire me
             </Link>    
             
             <Link
               href="https://drive.google.com/file/d/1MLn85ALZZJaAVNdDhlwyiyGL589RNsmz/view?usp=sharing"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3" target="_blank"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                Resume
               </span>
             </Link>
           </div>
