@@ -11,9 +11,11 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>ReactJS</li>
         <li>ExpressJS</li>
+        <li>NodeJS</li>
         <li>Git</li>
-        <li>AWS Cloud</li>
+        <li>SQL</li>
         <li>MongoDB</li>
+        <li>AWS Cloud</li>
         <li>Docker</li>
         <li className="text-[#A855F7]">Solidity</li>
         <li className="text-[#A855F7]">Hyperledger Fabrics</li>
@@ -40,8 +42,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Full Stack Blockchain Development from <a href="https://ineuron.ai/" target="_blank" className="text-[#A855F7]"><b> iNeuron </b></a></li>
       </ul>
     ),
   },
