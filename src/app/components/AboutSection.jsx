@@ -20,6 +20,8 @@ const TAB_DATA = [
       </ul>
     ),
   },
+  
+
   {
     title: "Education",
     id: "education",
@@ -32,6 +34,7 @@ const TAB_DATA = [
       </ul>
     ),
   },
+
   {
     title: "Certifications",
     id: "certifications",
