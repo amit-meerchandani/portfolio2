@@ -20,13 +20,13 @@ export default async function handler(req, res) {
     // Define email options
     const mailOptions = {
       from: {
-        name: "Amit Meerchandi",
+        name: "Amit Meerchandani",
         address: process.env.EMAIL_USER,
       },
       to: email,
-      subject: "Regarding the connection with Amit Meerchandi",
-      text: `Hello ${name}. We just received your query. Please be patient, we will get back to you soon with a response.`,
-      html: `<p>Hello ${name}. We just received your query. Please be patient, we will get back to you soon with a response.</p>`,
+      subject: "Query Received!",
+      text: `Hello ${name}.We just received your query. Please be patient, we will get back to you soon with a response.`,
+      html: `<h1>Hello ${name}.</h1><h3>We just received your query.</h3></h3><h3>Please be patient, we will get back to you soon with a response.</h3>`,
     };
 
     const ownerOptions = {
