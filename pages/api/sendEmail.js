@@ -25,8 +25,8 @@ export default async function handler(req, res) {
       },
       to: email,
       subject: "Query Received!",
-      text: `Hello ${name}.We just received your query. Please be patient, we will get back to you soon with a response.`,
-      html: `<h1>Hello ${name}.</h1><h3>We just received your query.</h3></h3><h3>Please be patient, we will get back to you soon with a response.</h3>`,
+      text: `Hello ${name},We just received your query. Please be patient, I will get back to you soon with a response.`,
+      html: `<h12>Hello ${name},</h2><h3>We have received your query.</h3></h3><h3>I will surely get back to you soon with a response.</h3>`,
     };
 
     const ownerOptions = {
