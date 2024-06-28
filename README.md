@@ -1,6 +1,6 @@
 # Personal Portfolio Website 🌟
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and professional journey, built with modern web technologies for a seamless and engaging user experience.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and professional journey, built with modern web technologies for a seamless and engaging user experience. 🚀
 
 ## Table of Contents 📚
 
