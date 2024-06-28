@@ -31,7 +31,7 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start"
         >
-          <h1 className="text-white mb-4 text-2xl sm:text-5xl lg:text-7xl lg:leading-normal font-extrabold lg:ml-12">
+          <h1 className="text-white mt-7 mb-6 text-2xl lg:text-7xl lg:leading-normal font-extrabold lg:ml-12">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               Hello, I&apos;m{" "}
             </span>
@@ -52,7 +52,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-l lg:ml-12">
+          <p className="text-[#ADB7BE] text-[11px] sm:text-lg mb-14 lg:text-l lg:ml-12">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span> Web3 and Front-end Developer <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span> MCA student at VIT Chennai <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">| <b>Open to Work</b> |</span> Biography Enthusiast <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">|</span>
           </p>
           <div>
