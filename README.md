@@ -12,7 +12,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - [Installation](#installation-)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
-- [License](#license-)
 - [Contact](#contact-)
 
 ## Tech Stack 🛠️
@@ -47,7 +46,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Deployment 🌐
 
-The project is deployed on Vercel. You can visit it [here](https://your-portfolio-site.vercel.app).
+The project is deployed on Vercel. You can visit it [here](https://amit-here.vercel.app).
 
 ## Installation 💻
 
@@ -55,12 +54,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/amit-meerchandani/portfolio2.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd yourrepository
+    cd yourRepository
     ```
 
 3. Install dependencies:
@@ -80,10 +79,8 @@ Open your browser and navigate to http://localhost:3000 to view the website.
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better together!
 
-## License 📜
+## Contact
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact 📧
-
-For any questions or inquiries, please contact me at your.email@example.com.
+You can reach me at:
+- Email: amitmeerchandani18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amit-meerchandani/
